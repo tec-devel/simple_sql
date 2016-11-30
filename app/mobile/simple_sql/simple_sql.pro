@@ -8,7 +8,6 @@ SOURCES += main.cpp \
     simplesqlapplication.cpp
 
 RESOURCES += qml.qrc \
-    sql.qrc \
     images.qrc
 
 QMAKE_CXXFLAGS += -std=c++11
